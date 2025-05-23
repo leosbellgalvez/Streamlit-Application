@@ -1,0 +1,5 @@
+timestamp,task_name,success,duration_seconds,notes
+2025-05-23 11:49:39,Task 1: Example Task,Partial,3.0069096088409424,fghh
+2025-05-23 11:49:40,Task 1: Example Task,Partial,,fghh
+2025-05-23 11:49:40,Task 1: Example Task,Partial,,fghh
+2025-05-23 12:15:27,Task 1: Example Task,Partial,3.8055853843688965,Partially Completed
